@@ -3,6 +3,6 @@ A cross- platform mobile application for buying and selling second-hand products
 ### This the server-side (REST APIs) application's code
 
 <div style="display: inline;">
-  <img src="./springboot.png" alt="SpringBoot" width="50"/>
-  <img src="./firebase.png" alt="Firebase" width="50"/>
+  <img src="./assets/springboot.png" alt="SpringBoot" width="50"/>
+  <img src="./assets/firebase.png" alt="Firebase" width="50"/>
 </div>
