@@ -5,4 +5,5 @@ A cross- platform mobile application for buying and selling second-hand products
 <div style="display: inline;">
   <img src="./assets/springboot.png" alt="SpringBoot" width="50"/>
   <img src="./assets/firebase.png" alt="Firebase" width="50"/>
+  <img src="./assets/MySQL.svg" alt="MySql" width="70"/>
 </div>
